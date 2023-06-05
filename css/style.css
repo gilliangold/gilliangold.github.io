@@ -2014,3 +2014,11 @@ a {
   font-size: 24px;
   padding: 25px;
 }
+
+#title-line {
+  height: 9px;
+  width: 50%;
+  color: #673ab7;
+  opacity: 1;
+  margin: auto;
+}
