@@ -1696,3 +1696,9 @@ a {
   opacity: 1;
   margin: auto;
 }
+
+.logo-container {
+  display: grid;
+  grid-template-columns: 8fr 2fr 2fr;
+  column-gap: 5px;
+ }
