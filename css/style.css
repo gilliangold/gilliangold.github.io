@@ -1701,4 +1701,5 @@ a {
   display: grid;
   grid-template-columns: 8fr 2fr 2fr;
   column-gap: 5px;
+  margin-bottom:10px;
  }
