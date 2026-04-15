@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: ""
+title: "CV"
 nav: true
 nav_order: 5
 ---
@@ -21,6 +21,6 @@ nav_order: 5
   src="https://docs.google.com/document/d/e/2PACX-1vThZW7vjtnL7vaRUvxpGRPTBQjgdD_WgAlchGKwwWM0QTJic31yNHY4sHqIK9qmdy7sS9aj8IRz7pB3/pub?embedded=true"
   width="100%"
   height="900"
-  style="border: none;"
+  style="border: 1px solid black;"
   allowfullscreen>
 </iframe>
