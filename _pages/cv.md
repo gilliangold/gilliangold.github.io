@@ -11,7 +11,7 @@ nav_order: 5
   # sidebar: left
 ---
 
-<iframe src="[https://drive.google.com/file/d/YOUR_FILE_ID/preview](https://docs.google.com/document/d/1FgO074j_3cl05W950oZPiWtmzd2NgVCZ4A7nuLxI_vo/edit?usp=sharing)" 
+<iframe src="https://docs.google.com/document/d/1FgO074j_3cl05W950oZPiWtmzd2NgVCZ4A7nuLxI_vo/edit?usp=sharing" 
         width="100%" 
         height="800px" 
         frameborder="0" 
