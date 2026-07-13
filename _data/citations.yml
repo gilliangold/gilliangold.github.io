@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-13'
 papers:
   tFCpyFMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 7
     title: "Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting artificial intelligence\u2013assisted cheating with a keystroke-based tool"
     year: '2026'
   tFCpyFMAAAAJ:UeHWp8X0CEIC:
@@ -12,13 +12,17 @@ papers:
   tFCpyFMAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: What Drives Learning During Practice? Contributions of Exposure, Retrieval, and Error Correction
-    year: Unknown Year
+    year: '2026'
   tFCpyFMAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback
     year: '2026'
+  tFCpyFMAAAAJ:YsMSGLbcyi4C:
+    citations: 1
+    title: AI or Human? An Open-Source SDK and Dashboard for Detecting Outsourced Responding
+    year: '2026'
   tFCpyFMAAAAJ:d1gkVwhDpl0C:
-    citations: 12
+    citations: 13
     title: Multivariate links between the developmental timing of adversity exposure and white matter tract connectivity in adulthood
     year: '2025'
   tFCpyFMAAAAJ:qjMakFHDy7sC:
