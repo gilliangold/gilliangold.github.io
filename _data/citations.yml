@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-07'
 papers:
   tFCpyFMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 7
+    citations: 9
     title: "Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting artificial intelligence\u2013assisted cheating with a keystroke-based tool"
     year: '2026'
   tFCpyFMAAAAJ:UeHWp8X0CEIC:
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: What Drives Learning During Practice? Contributions of Exposure, Retrieval, and Error Correction
     year: '2026'
+  tFCpyFMAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'Straight-line behavior: conforming to design in a practice environment'
+    year: Unknown Year
   tFCpyFMAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback
@@ -22,17 +26,25 @@ papers:
     title: AI or Human? An Open-Source SDK and Dashboard for Detecting Outsourced Responding
     year: '2026'
   tFCpyFMAAAAJ:d1gkVwhDpl0C:
-    citations: 13
+    citations: 14
     title: Multivariate links between the developmental timing of adversity exposure and white matter tract connectivity in adulthood
     year: '2025'
+  tFCpyFMAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: 'Errors as signals: generative practice improves programming performance, metacognition, and motivation'
+    year: Unknown Year
   tFCpyFMAAAAJ:qjMakFHDy7sC:
     citations: 0
-    title: 'Well-calibrated intuitions, flawed judgments: Low post-instruction self-efficacy steers students away from efficient learning'
+    title: 'Well-calibrated intuitions, flawed judgments: Low post-instruction self-efficacy may lead students away from efficient learning'
     year: Unknown Year
   tFCpyFMAAAAJ:u-x6o8ySG0sC:
     citations: 1
     title: Further Evidence for Regularity in Student Learning Rates Across Demographic, Academic Proficiency, and Motivational Groups
     year: '2024'
+  tFCpyFMAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: 'Why You Switch Matters: Failure-Triggered Switching Between Different Problem Types is More Related to Programming Performance than General Switching'
+    year: Unknown Year
   tFCpyFMAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: 'Less Talk, More Code: Practice-Based Instruction Improves Programming Skill Acquisition'
