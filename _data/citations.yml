@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-10'
 papers:
+  tFCpyFMAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Decomposing the Doer Effect in Programming Practice: Code Writing Stands Out Among Active Practice'
+    year: '2026'
   tFCpyFMAAAAJ:Tyk-4Ss8FVUC:
     citations: 9
     title: "Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting artificial intelligence\u2013assisted cheating with a keystroke-based tool"
@@ -25,6 +29,10 @@ papers:
     citations: 1
     title: AI or Human? An Open-Source SDK and Dashboard for Detecting Outsourced Responding
     year: '2026'
+  tFCpyFMAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Effectiveness and Efficiency of Multimedia Worked Examples vs. Practice with Feedback on Learning Problem Solving
+    year: '2026'
   tFCpyFMAAAAJ:d1gkVwhDpl0C:
     citations: 14
     title: Multivariate links between the developmental timing of adversity exposure and white matter tract connectivity in adulthood
@@ -37,6 +45,10 @@ papers:
     citations: 0
     title: 'Well-calibrated intuitions, flawed judgments: Low post-instruction self-efficacy may lead students away from efficient learning'
     year: Unknown Year
+  tFCpyFMAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: What Drives Learning During Practice and Testing? Evidence for Distinct Roles of Exposure and Retrieval
+    year: '2026'
   tFCpyFMAAAAJ:u-x6o8ySG0sC:
     citations: 1
     title: Further Evidence for Regularity in Student Learning Rates Across Demographic, Academic Proficiency, and Motivational Groups
