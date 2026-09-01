@@ -1,12 +1,28 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: CV
+title: "CV"
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+
+  <a href="https://docs.google.com/document/d/e/2PACX-1vThZW7vjtnL7vaRUvxpGRPTBQjgdD_WgAlchGKwwWM0QTJic31yNHY4sHqIK9qmdy7sS9aj8IRz7pB3/export?format=pdf"
+     target="_blank"
+     title="Download CV"
+     style="font-size: 1.4rem;">
+    <i class="fas fa-download"></i>
+  </a>
+</div>
+
+<iframe
+  src="https://docs.google.com/document/d/e/2PACX-1vThZW7vjtnL7vaRUvxpGRPTBQjgdD_WgAlchGKwwWM0QTJic31yNHY4sHqIK9qmdy7sS9aj8IRz7pB3/pub?embedded=true"
+
+
+  
+  width="100%"
+  height="900"
+  style="border: 1px solid black;"
+  allowfullscreen>
+</iframe>
