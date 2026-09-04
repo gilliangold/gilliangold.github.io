@@ -1,12 +1,8 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-09-04'
 papers:
-  tFCpyFMAAAAJ:LkGwnXOMwfcC:
-    citations: 0
-    title: 'Decomposing the Doer Effect in Programming Practice: Code Writing Stands Out Among Active Practice'
-    year: '2026'
   tFCpyFMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 9
+    citations: 11
     title: "Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting artificial intelligence\u2013assisted cheating with a keystroke-based tool"
     year: '2026'
   tFCpyFMAAAAJ:UeHWp8X0CEIC:
@@ -17,10 +13,6 @@ papers:
     citations: 0
     title: What Drives Learning During Practice? Contributions of Exposure, Retrieval, and Error Correction
     year: '2026'
-  tFCpyFMAAAAJ:WF5omc3nYNoC:
-    citations: 0
-    title: 'Straight-line behavior: conforming to design in a practice environment'
-    year: Unknown Year
   tFCpyFMAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback
@@ -53,10 +45,6 @@ papers:
     citations: 1
     title: Further Evidence for Regularity in Student Learning Rates Across Demographic, Academic Proficiency, and Motivational Groups
     year: '2024'
-  tFCpyFMAAAAJ:ufrVoPGSRksC:
-    citations: 0
-    title: 'Why You Switch Matters: Failure-Triggered Switching Between Different Problem Types is More Related to Programming Performance than General Switching'
-    year: Unknown Year
   tFCpyFMAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: 'Less Talk, More Code: Practice-Based Instruction Improves Programming Skill Acquisition'
